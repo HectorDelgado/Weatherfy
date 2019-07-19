@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weatherfy</string>
+    <string name="cityTextView">Current City</string>
+    <string name="cityPromptTextView">Enter a city name</string>
+    <string name="searchEditText">City</string>
+    <string name="searchButton">Search</string>
+    <string name="loadingTextView">Gathering Weather Data</string>
+</resources>
