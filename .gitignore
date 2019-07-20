@@ -97,3 +97,5 @@ lint/tmp/
 
 # API Keys
 **/*/res/values/secrets.xml
+
+_GraphicDesign/

@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">Weatherfy</string>
     <string name="cityTextView">Current City</string>
-    <string name="cityPromptTextView">Enter a city name</string>
+    <string name="cityPromptTextView">Enter A City Name</string>
     <string name="searchEditText">City</string>
-    <string name="searchButton">Search</string>
-    <string name="loadingTextView">Gathering Weather Data</string>
+    <string name="searchByCityButton">Search By City</string>
+    <string name="searchByLocationButton">Search By Location</string>
+    <string name="loadingTextView">Fetching Current Weather</string>
+    <string name="fahrenheitSign">°F</string>
+    <string name="celsiusSign">°C</string>
 </resources>
